@@ -1,6 +1,4 @@
 # Methods.java
-package java_methods;
-
 import java.util.Scanner;
 
 public class Methods {
